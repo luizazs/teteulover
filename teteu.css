@@ -30,7 +30,7 @@ body {
 .container > .envelope-wrapper {
   background: var(--bg-envelope-color);
   box-shadow: 0 0 40px var(--shadow-color);
-  transform: scale(1.3); /* Aumenta o tamanho geral. Mude o valor se quiser mais ou menos zoom */
+  transform: scale(1.1); /* Aumenta o tamanho geral. Mude o valor se quiser mais ou menos zoom */
 }
 
 .envelope-wrapper > .envelope {
